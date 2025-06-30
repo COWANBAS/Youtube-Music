@@ -5,7 +5,6 @@
 // @license       CowBas
 // @version       1.0
 // @author        Cowanbas
-// @match         *://*/*
 // @match         *://music.youtube.com/*
 // @run-at        document-start
 // ==/UserScript==

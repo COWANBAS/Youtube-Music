@@ -2,6 +2,14 @@
 
 O user script faz com que o YouTube Music rode apenas as músicas sem rodar os vídeos ou mostrar a capa dos álbuns.
 
+* Antes
+
+![image](https://github.com/user-attachments/assets/e72a4fb4-b861-4f83-9eba-cb54d3b5f549)
+
+* Depois
+
+![image](https://github.com/user-attachments/assets/6bc5797e-2878-4b3e-8e30-3117e1ad93ae)
+
 # COMO FUNCIONA?
 
 * Função para substituir cor de fundo
